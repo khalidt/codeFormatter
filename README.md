@@ -10,7 +10,7 @@
 
 ## Installation
 
-You can install the library using pip:
+~~You can install the library using pip:~~
 
 ```bash
 pip install codeFormatter
